@@ -9,3 +9,5 @@
 * Minimal effort idag, men mot slutet så började jag väldigt enkelt på första sidan av vår hemsida, annars inte ett skit
 ## v.15
 * Fortsatt på att bygga första sidan av vår hemsida, annars inget
+## v.16
+* Stora framsteg med bootsrap och vårn hemsida, header klar och inehållet är på gång
