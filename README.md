@@ -13,3 +13,5 @@
 * Stora framsteg med bootsrap och vår hemsida, header klar och innehållet är på gång
 ## v.17
 * Nästan helt klar, mindre fix med färger och placering sedan färdig
+## v.18
+* Sidan finns nu på internet, och igen jag är så så nära att vara klar
