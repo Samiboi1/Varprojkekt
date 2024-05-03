@@ -10,4 +10,6 @@
 ## v.15
 * Fortsatt på att bygga första sidan av vår hemsida, annars inget
 ## v.16
-* Stora framsteg med bootsrap och vårn hemsida, header klar och inehållet är på gång
+* Stora framsteg med bootsrap och vår hemsida, header klar och innehållet är på gång
+## v.17
+* Nästan helt klar, mindre fix med färger och placering sedan färdig
