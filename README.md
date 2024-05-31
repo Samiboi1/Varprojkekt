@@ -17,3 +17,5 @@
 * Sidan finns nu på internet, och igen jag är så så nära att vara klar
 ## v.20
 * Mindre ändringar först och sedan tog Kevin koden (och datorn) och städade upp koden för att göra den bättre, detta hjälpte att sätta färger rätt, men min grundidé finns fortfarande med layouten vilket jag är nöjd med
+## v.21
+* Mindre ändringa på alla sidor för att få dem att se bättre ut
