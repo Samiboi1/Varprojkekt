@@ -19,3 +19,5 @@
 * Mindre ändringar först och sedan tog Kevin koden (och datorn) och städade upp koden för att göra den bättre, detta hjälpte att sätta färger rätt, men min grundidé finns fortfarande med layouten vilket jag är nöjd med
 ## v.21
 * Mindre ändring på alla sidor för att få dem att se bättre ut, Kevin tog detta ansvaret (och datorn) för att gör ändringar på förstasidan i VSCodium
+## v.22
+* Presentering och vårprojekt färdig
